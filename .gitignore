@@ -1,0 +1,17 @@
+# Archivos de datos y de caché
+*.json
+*.xlsx
+*.pkl
+*.log
+
+# Archivos de configuración local
+.env
+.vscode
+
+# Archivos y directorios de construcción
+__pycache__/
+*.pyc
+*.egg-info/
+dist/
+build/
+
